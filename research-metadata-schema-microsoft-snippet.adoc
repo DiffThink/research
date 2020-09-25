@@ -1,0 +1,25 @@
+== xref:microsoft-form-pro[image:https://upload.wikimedia.org/wikipedia/commons/5/56/Chain_link_icon_slanted.png["Click here to Microsoft Form Pro", width=20]] Microsoft Form Pro - Resource
+
+[[microsoft-form-pro]]
+Reviewed Microsoft's approach to dealing with form management at scale. 
+
+=== Documentation
+
+- https://docs.microsoft.com/en-us/forms-pro/[Microsoft Forms Pro documentation]
+- https://docs.microsoft.com/en-us/forms-pro/developer/developer-guide[Developer guide for Microsoft Forms Pro]
+
+=== Entity Reference
+
+You can review Microsoft's https://docs.microsoft.com/en-us/forms-pro/developer/forms-pro-reference[entity models] to validate your current schema. 
+
+image::https://docs.microsoft.com/en-us/forms-pro/media/er-diagram.png["Microsoft Entity Model", width=300]
+You can generate a detailed entity-relationship diagram of Forms Pro entities using the link:https://code.msdn.microsoft.com/Sample-of-generating-a0ba0e47[Metadata Diagram tool]. 
+
+=== Microsoft Data Flow
+
+image::https://docs.microsoft.com/en-us/forms-pro/media/dfd.png["Data flow in Forms Pro", width=300]
+
+
+//// 
+"File:Chain link icon slanted.png" by Mdowdell is licensed with CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0 
+////

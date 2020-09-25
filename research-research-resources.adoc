@@ -1,0 +1,9 @@
+:Author: Parris Lucas
+:Email: Parris@RedHat.com
+
+= Research Resources
+
+Contact: {email}[{author}]
+
+
+

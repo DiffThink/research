@@ -1,0 +1,25 @@
+= Research Metadata Schemas
+Parris Lucas <Parris@RedHat.com>
+v1.0, September 25, 2020: First Draft
+
+:Author: Parris Lucas
+:Email: Parris@RedHat.com
+:Created:  2020-09-25
+:Version: {revnumber}
+:Status: Draft
+:Project: https://github.com/orgs/DiffThink/projects/1
+:Repo: https://github.com/DiffThink/research
+:Wiki: https://github.com/DiffThink/research/wiki
+:Keywords:
+:Description: 
+
+
+
+Research link:{project}[Project Page]
+ 
+
+include::./research-metadata-schema-microsoft-snippet.adoc[microsoft-snippet]
+
+== Resources
+
+include::./research-metadata-schema-othertools-snippet.adoc[tool-snippet]
