@@ -1,0 +1,28 @@
+=== Other Tools
+
+Here is a list of entity modeling tools that can assist with design schemas. 
+
+==== Open Source Community
+
+- Modelers
+
+* https://www.eclipse.org/papyrus/[Eclipse Papyrus]
+* https://github.com/prmr/JetUML/blob/master/README.md[JetUML]
+* https://github.com/ModelioOpenSource/Modelio/blob/master/README.md[Modelio]
+* https://www.xrmtoolbox.com/[XrmToolBox] is a Windows application that connects to the Common Data Service for Apps (CDS)
+
+==== Commercial 
+
+- Modelers
+* https://www.altova.com/umodel[Altova UModel]
+* https://www.genmymodel.com/[GenMyModel]
+* https://www.lucidchart.com/[LucidChart]
+* https://www.microsoft.com/en-us/microsoft-365/visio[Microsoft Visio]
+* https://www.nomagic.com/[No Magic] 
+* https://plantuml.com/[PlantUML Home]
+* https://sparxsystems.com/[Enterprise Architect]
+* http://staruml.io/[StarUML 3]
+* https://www.visual-paradigm.com/[Visual Paradigm]
+
+- Code Sample Repositories
+* https://docs.microsoft.com/samples[Microsoft Code Sample Repostory]
