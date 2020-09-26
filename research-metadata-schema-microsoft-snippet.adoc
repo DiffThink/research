@@ -1,4 +1,14 @@
+<<<<<<< HEAD
 == xref:microsoft-form-pro[image:https://upload.wikimedia.org/wikipedia/commons/5/56/Chain_link_icon_slanted.png["Click here to Microsoft Form Pro", width=20]] Microsoft Form Pro - Resource
+=======
+= xref:microsoft-form-pro[image:https://upload.wikimedia.org/wikipedia/commons/5/56/Chain_link_icon_slanted.png["Click here to Microsoft Form Pro", width=20]] Microsoft Form Pro - Resource
+
+:Author:    Parris Lucas
+:Email:     <parris@redhat.com>
+:Date:      2020-09-25 15:44:31-0400
+:Revision:  1.0
+
+>>>>>>> metadata-schemas
 
 [[microsoft-form-pro]]
 Reviewed Microsoft's approach to dealing with form management at scale. 
@@ -20,6 +30,10 @@ You can generate a detailed entity-relationship diagram of Forms Pro entities us
 image::https://docs.microsoft.com/en-us/forms-pro/media/dfd.png["Data flow in Forms Pro", width=300]
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> metadata-schemas
 //// 
 "File:Chain link icon slanted.png" by Mdowdell is licensed with CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0 
 ////
